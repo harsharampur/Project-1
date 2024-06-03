@@ -51,4 +51,5 @@ The project aims to develop a Morse Code Decoder using the VSDSquadron mini deve
 
 # WORKING OF PROJECT:
 
-https://github.com/harsharampur/Project-1/issues/1#issue-2331816275
+https://github.com/harsharampur/Project-1/assets/135097306/c44e4a8d-46d4-4b6f-97e7-27513ba2545d
+
